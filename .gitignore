@@ -1,0 +1,24 @@
+# Virtual environment folder
+Myenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# Media and static files 
+media/
+staticfiles/
+
+# Environment variables file
+.env
+
+# VS Code settings  
+.vscode/
